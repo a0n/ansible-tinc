@@ -1,6 +1,6 @@
 [vpn]
-entrance vpn_ip=172.19.23.1 ansible_host=10.1.52.180 ansible_connection=local
-email vpn_ip=172.19.23.2 ansible_host=10.3.149.5
+entrance vpn_ip=172.19.23.1 ansible_host=10.1.10.56 ansible_connection=local
+exchange vpn_ip=172.19.23.2 ansible_host=10.3.149.5
 gitlab vpn_ip=172.19.23.3 ansible_host=10.2.168.69
 
 [removevpn]
